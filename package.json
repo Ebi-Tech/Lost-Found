@@ -7,9 +7,9 @@
   "dependencies": {
     "@firebase/firestore": "^4.7.10",
     "date-fns": "^4.1.0",
-    "firebase": "^11.5.0"
+    "firebase": "^11.10.0"
   },
   "devDependencies": {
-    "vite": "^6.2.3"
+    "vite": "^6.3.5"
   }
 }
